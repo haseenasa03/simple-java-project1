@@ -41,7 +41,7 @@
                     <img src="./assets/image.png" class=" d-block mx-lg-auto img-fluid imgm" alt="Bootstrap Themes" width="900" height="800" loading="lazy">
                 </div>
                 <div class="col-lg-6 p-0 m-0">
-                  <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3 herotext2">Let’s Build Something amazing with GPT-3<br /> OpenAI</h1>
+                  <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3 herotext2">Let Build Something amazing with GPT-3<br /> OpenAI</h1>
                     <p class="lead herotext3">Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
 
                     <div class="d-grid gap-2 d-md-flex justify-content-md-start heroform">
