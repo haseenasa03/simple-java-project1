@@ -1,2 +1,22 @@
-<h1> Hello, Welcome to Devops Tech Guru Siddharth Mogulla YouTube Channel!! Thanks for watching </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Invite</title>
+</head>
+<body>
+    <h1>It's My Birthday!</h1>
+    <h3>On the 12th May</h3>
+    <img src="birthday.jpeg" alt="birthday invite">
 
+    <h3>What to bring:</h3>
+    <ul>
+        <li>Baloons (I love baloons)</li>
+       <li> Cake (I'm really good at eating)</li>
+       <li> An appetite (There will be lots of food)</li>
+    </ul>
+   <h3>This is where you need to go:</h3>
+   <a href="https://www.google.com/maps/@35.7040744,139.5577317,3a,75y,289.6h,87.01t,0.72r/data=!3m6!1e1!3m4!1sgT28ssf0BB2LxZ63JNcL1w!2e0!7i13312!8i6656?entry=ttu">Google Map</a>
+</body>
+</html>
